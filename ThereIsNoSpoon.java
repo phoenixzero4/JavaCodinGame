@@ -1,4 +1,4 @@
-package codingame;
+package codinGame;
 
 import java.util.LinkedList;
 import java.util.Arrays;

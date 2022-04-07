@@ -1,5 +1,5 @@
 
-package codingame;
+package codinGame;
 
 import java.io.File;
 import java.io.IOException;

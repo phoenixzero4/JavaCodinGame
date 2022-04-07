@@ -1,7 +1,7 @@
 /**
  * 
  */
-package codingame;
+package codinGame;
 
 import java.util.Scanner;
 
